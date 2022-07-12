@@ -1,3 +1,13 @@
+
+/*
+   1
+  121
+ 12321
+1234321
+*/
+
+
+
 class Pattern13
 {
 	public static void main(String args[])
