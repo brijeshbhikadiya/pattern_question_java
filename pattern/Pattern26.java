@@ -1,3 +1,10 @@
+/* draw a pattern
+   1
+  212
+ 32123
+4321234
+*/
+
 class Pattern26
 {
 	public static void main(String args[])
