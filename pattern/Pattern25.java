@@ -13,7 +13,7 @@ class Pattern25
 {
 	public static void main(String args[])
 	{
-		int k='A';
+		int k='B';
 		for(int i=1;i<=4;i++)
 		{
 			k=64+i;
